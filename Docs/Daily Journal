@@ -1,3 +1,6 @@
 Daily Journal - This is a doc file where i keep track of Daily  progress to match my progress with targeted progress. (Starting from 5th july)
 
-05/07/26 -> 
+05/07/26 -> - Switched from using basic euler angles to quanternion + GPS module for accurate 3d visualation of rocket even during real flight.
+            - Designed prototype of Perf Board holder inside the avionics bay.
+
+06/07/26 -> -             
