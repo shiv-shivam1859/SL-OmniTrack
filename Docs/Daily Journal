@@ -2,5 +2,8 @@ Daily Journal - This is a doc file where i keep track of Daily  progress to matc
 
 05/07/26 -> - Switched from using basic euler angles to quanternion + GPS module for accurate 3d visualation of rocket even during real flight.
             - Designed prototype of Perf Board holder inside the avionics bay.
+            - Learned Shapr3d and Anycubic slicer  
 
-06/07/26 -> -             
+06/07/26 -> - Discared "Perf Holder Prot 0" and created and printed new design "Perf Holder Prot 1".
+            - Disgned perf board in 49*20mm diamention for testing.
+            - Discared "Perf Holder Prot 1" and designed new prototype "Perf Holder Prot 2".
