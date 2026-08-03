@@ -12,4 +12,8 @@ Note - I dont know exactly how to write BOM as its my first time so im gonna inc
 |                                                                                  |        | accurate 3d visualization of rocket mid-flight.                      |            |
 |Some wires and usb 2.0 A to B Cable                                               | Depends| Wires for wiring and cable to connect ground station to laptop/pc    |        289 |
 
-**IMPORTANT** - Supplier is Robocraze.com and all cost are in INR (Indian currency.) and Total cost (after discounts and taxes) is INR ₹4,365.00
+****IMPORTANT**** - 
+1. Supplier is Robocraze.com and all cost are in INR (Indian currency.) and Total cost (after discounts and taxes) is INR ₹4,365.00
+2. This is a BOM file only for my first funded component , its not total components used , after i get the funding i will update the BOM file with all component as i complete the project.
+
+- Also added a pdf of BOM if i havent formatted this one correctly. HEHE.....
