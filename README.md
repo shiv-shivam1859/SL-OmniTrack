@@ -26,6 +26,8 @@ Name — SL-OmniTrack
 
 ## 3. Steps to Recreate This Project
 
+> **Build status:** This project has not yet been physically built. This submission is at the design and component-sourcing stage.
+
 ### Scope Note
 This section currently covers component sourcing for SL-OmniTrack V1, which is scoped to data-gathering only (no active thrust vector control or onboard closed-loop sensor fusion).
 
@@ -123,4 +125,4 @@ The following are next steps, contingent on this funding round supplying the rem
 
 ---
 
-**IMPORTANT** — AI has only been used as mentioned in Section 2, unless explicitly mentioned otherwise. This project has not yet been physically built, this is a design/component-sourcing stage submission.
+**IMPORTANT** — AI has only been used as mentioned in Section 2, unless explicitly mentioned otherwise.
