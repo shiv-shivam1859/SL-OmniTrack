@@ -123,4 +123,4 @@ The following are next steps, contingent on this funding round supplying the rem
 
 ---
 
-**IMPORTANT** — AI has only been used as mentioned in Section 2, unless explicitly mentioned otherwise.
+**IMPORTANT** — AI has only been used as mentioned in Section 2, unless explicitly mentioned otherwise. This project has not yet been physically built, this is a design/component-sourcing stage submission.
